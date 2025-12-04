@@ -19,27 +19,22 @@ I transform raw data into business insights and interactive dashboards.
 ## 🔗 Social Links  
 <p align="left">
 
-<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/manpreet-roy" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<!-- Instagram -->
 <a href="https://instagram.com/data_analyst.man" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
 
-<!-- Email -->
 <a href="mailto:roymanpreetkumar@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
-<!-- GitHub -->
 <a href="https://github.com/ManpreetRoy" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="45" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<!-- PayPal -->
 <a href="https://www.paypal.me/MANPREETROYIN" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174861.png" width="45"/>
 </a>
@@ -51,28 +46,21 @@ I transform raw data into business insights and interactive dashboards.
 ## 🛠️ Skills & Tools  
 <p>
 
-<!-- Excel -->
-<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="48" style="margin-right:15px;"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="48"/>
 
-<!-- SQL Server -->
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="48" style="margin-right:15px;"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="48"/>
 
-<!-- Python -->
-<img src="https://skillicons.dev/icons?i=python" width="48" style="margin-right:15px;"/>
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
 
-<!-- Pandas -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" style="margin-right:15px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
 
-<!-- NumPy -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" style="margin-right:15px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
 
-<!-- Matplotlib -->
-<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib-logo.png" width="48" style="margin-right:15px;"/>
+<!-- FIXED MATPLOTLIB ICON -->
+<img src="https://miro.medium.com/1*I0t-fLjyUZ3XnJLRW1B-uQ.png" width="48"/>
 
-<!-- Power BI (your link) -->
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" style="margin-right:15px;"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48"/>
 
-<!-- Azure -->
 <img src="https://skillicons.dev/icons?i=azure" width="48"/>
 
 </p>
@@ -97,7 +85,13 @@ I transform raw data into business insights and interactive dashboards.
 
 ## ✨ Fun Fact  
 I turn data into stories — and **I’m open for freelance work!**  
-Dashboards, SQL projects, automations — I can help.
+Dashboards, SQL projects, automations — I can help.  
 
 ---
+
+## 👀 Visitor Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManpreetRoy&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
+
 

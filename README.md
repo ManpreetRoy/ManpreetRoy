@@ -31,10 +31,6 @@ I transform raw data into business insights and interactive dashboards.
   <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
-<a href="https://github.com/ManpreetRoy" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-
 <a href="https://www.paypal.me/MANPREETROYIN" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174861.png" width="45"/>
 </a>
@@ -69,7 +65,6 @@ I transform raw data into business insights and interactive dashboards.
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManpreetRoy&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ManpreetRoy&theme=tokyonight" height="160"/>
 </p>
 
@@ -84,8 +79,8 @@ I transform raw data into business insights and interactive dashboards.
 ---
 
 ## ✨ Fun Fact  
-I turn data into stories — and **I’m open for freelance work!**  
-Dashboards, SQL projects, automations — I can help.  
+I turn data into stories and **I’m open for freelance work!**  
+Dashboards, SQL projects, automations I can help.  
 
 ---
 

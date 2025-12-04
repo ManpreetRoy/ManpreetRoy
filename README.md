@@ -11,8 +11,8 @@ I’m a passionate **Data Analyst** skilled in **Excel, SQL Server, Python, Powe
 I transform raw data into business insights and interactive dashboards.
 
 - 🔥 Improving **SQL + Power BI + Python EDA**  
-- 📊 Focused on **data cleaning, visualization, and business intelligence**  
-- 🤝 Open to freelance **Power BI dashboards, Python analysis, and SQL projects**  
+- 📊 Focused on **data cleaning, visualization & automation**  
+- 🤝 Open for freelance **Power BI dashboards, SQL analysis & Python work**  
 
 ---
 
@@ -67,10 +67,10 @@ I transform raw data into business insights and interactive dashboards.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" style="margin-right:15px;"/>
 
 <!-- Matplotlib -->
-<img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="48" style="margin-right:15px;"/>
+<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib-logo.png" width="48" style="margin-right:15px;"/>
 
-<!-- Power BI (working icon) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Power_BI_Logo.svg/512px-Power_BI_Logo.svg.png" width="48" style="margin-right:15px;"/>
+<!-- Power BI (your link) -->
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" style="margin-right:15px;"/>
 
 <!-- Azure -->
 <img src="https://skillicons.dev/icons?i=azure" width="48"/>
@@ -81,8 +81,8 @@ I transform raw data into business insights and interactive dashboards.
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManpreetRoy&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManpreetRoy&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ManpreetRoy&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ManpreetRoy&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@ I transform raw data into business insights and interactive dashboards.
 
 ## ✨ Fun Fact  
 I turn data into stories — and **I’m open for freelance work!**  
-Whether it’s a dashboard, SQL analysis, or Python project, I can help.
+Dashboards, SQL projects, automations — I can help.
 
 ---
 

@@ -19,11 +19,11 @@ I transform raw data into business insights and interactive dashboards.
 ## 🔗 Social Links  
 <p align="left">
 
-<a href="https://www.linkedin.com/in/manpreet-roy" target="_blank">
+<a href="https://www.linkedin.com/in/manpreet-roy" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="https://instagram.com/data_analyst.man" target="_blank">
+<a href="https://instagram.com/data_analyst.man" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
 
